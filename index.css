@@ -1,0 +1,23 @@
+#bada_container{
+  border: 2px solid rgb(135, 132, 132);
+  width: 200px;
+  border-radius: 5px;
+ 
+}
+#display{
+    width: 85%;
+    margin: 12px;
+    height: 30px;
+
+}
+#small_container{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+.button{
+    margin:5px;
+    width: 50px;
+    height: 50px;
+    
+}
